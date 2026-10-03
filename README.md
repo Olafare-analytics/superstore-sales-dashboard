@@ -5,6 +5,7 @@
 This project presents an interactive Microsoft Excel dashboard developed to analyse the sales and profitability performance of a retail Superstore.
 
 The dashboard transforms transactional sales data into clear business insights by examining sales performance across customer segments, product categories, and time periods.
+![Superstore Sales Dashboard](superstore-dashboard.PNG)
 
 ## Business Objective
 
